@@ -1,11 +1,12 @@
 # COMP6451-Project-2019
 
 ![Picture](./misc/myUNSW.png)
-*Cryptocurrency and Distributed Ledger Technology*
+*Cryptocurrency and Distributed Ledger Technologies*
+
+## Contents
 
 Self-explanatory.
 
-## Contents
 1. A homework assignment.
 2. A PPT presentation.
 3. The coding assignment. Performed in SOLIDITY, online-compiler flavour.
