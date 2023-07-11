@@ -1,10 +1,11 @@
 # COMP6451-Project-2019
-Self-explanatory
+
+Self-explanatory.
 
 ## Contents
-* A homework assignment
-* A PPT
-* The coding assignment. Done on SOLIDITY with the help of online compiler
+1. A homework assignment
+2. A PPT
+3. The coding assignment. Performed in SOLIDITY (online compiler flavour)
 
 ## References
 
