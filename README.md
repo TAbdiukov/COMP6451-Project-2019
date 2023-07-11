@@ -1,6 +1,6 @@
 # COMP6451-Project-2019
 
-![Picture](./misc/myUNSW.png)
+![Picture](./misc/myUNSW.png)  
 *Cryptocurrency and Distributed Ledger Technologies.*
 
 **COMP6451 Project** | [COMP6451 Brief](./COMP6451-BRIEF.md)

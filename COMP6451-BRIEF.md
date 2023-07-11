@@ -5,6 +5,7 @@
 
 [COMP6451 Project](./README.md) | **COMP6451 Brief**
 
+-------------------------------------------------------
 
 > This course will run for the first time in summer session 2018-19. Please note that it will have an intensive schedule > consisting of 6hrs/week Jan 2 - Feb 9. 
 
