@@ -1,6 +1,6 @@
 # COMP6451-Project-2019
 
-![Picture](./misc/myUNSW.png)
+![Picture](./misc/myUNSW.png)  
 *Cryptocurrency and Distributed Ledger Technologies.*
 
 ## Contents
