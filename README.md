@@ -3,9 +3,9 @@
 Self-explanatory.
 
 ## Contents
-1. A homework assignment
-2. A PPT
-3. The coding assignment. Performed in SOLIDITY (online compiler flavour)
+1. A homework assignment.
+2. A PPT presentation.
+3. The coding assignment. Performed in SOLIDITY, online-compiler flavour.
 
 ## References
 
