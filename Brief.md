@@ -3,7 +3,7 @@
 ![Picture](./misc/myUNSW.png)  
 *Cryptocurrency and Distributed Ledger Technologies.*
 
-[COMP6451 Project](./README.md) | **COMP6451 Brief**
+<ins>COMP6451</ins>: [Project](./README.md) | **Brief**
 
 -------------------------------------------------------
 
@@ -38,4 +38,4 @@ Bitcoin and Cryptocurrency Technologies, Narayan et al - 2016 | loosely used, wi
 ![2](https://latex.codecogs.com/gif.latex?COMP%5Csqrt%7B64%7D&plus;%5Csqrt%7B5-1%7D)
 
 ## Impression
-*Seems like this course is a spin-off of the American (U.S.) Princeton University's similar course*
+*Seems like this course is a spin-off of the American (U.S.) Princeton University's course*

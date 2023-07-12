@@ -3,7 +3,7 @@
 ![Picture](./misc/myUNSW.png)  
 *Cryptocurrency and Distributed Ledger Technologies.*
 
-**COMP6451 Project** | [COMP6451 Brief](./COMP6451-BRIEF.md)
+<ins>COMP6451</ins>: **Project** | [Brief](./Brief.md)
 
 ## Contents
 
